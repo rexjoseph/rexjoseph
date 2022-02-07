@@ -1,6 +1,6 @@
-                                                                    Hi 👋, I'm Rex
+                                                              Hi 👋, I'm Rex
 
-                                                    Fullstack engineer, creator of everything under The Josephs
+                                            Fullstack engineer, creator of everything under The Josephs
 
 <!--
 **rexjoseph/rexjoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
