@@ -9,7 +9,17 @@ Across the contests I have dedicated a considerable amount of time to, the resul
 Across all contests I have participated in solo, I have placed in the top 5 ranking four(4) times. While working with friends (rustguy, haxatron) we placed in the top 10 ranking three(3) times as well. 
 <br/>
 <br/>
-<hr/>
+<h1>Programming expertise</h1>
+Before venturing into Blockchain security, I did Fullstack development freelance with the MERN stack (MongoDB, Expressjs, Reactjs, Nodejs). I'm very friendly with Javascript which probably explains why it was easy for me to pick up Solidity right from the get-go while starting out over a year and half ago. Alongside Javascript, very little knowledge of Java and C++, I do have knowledge in the following languages below for smart contract development/auditing:
+<br/>
+<br/>
+<ol>
+  <li>Solidity (proficient)</li>
+  <li>Rust (not proficient in writing it but proficient in auditing with it)</li>
+  <li>Vyper (comfortable writing and auditing with it even without prior Python knowledge)</li>
+  <li>Move, Sui (can audit in these since they're slight variations of rust)</li>
+</ol>
+<br/>
 <h1>Public Contest Achievements</h1> 
 <body>
   <table>
@@ -95,6 +105,13 @@ Across all contests I have participated in solo, I have placed in the top 5 rank
       <td><a href="https://code4rena.com/reports/2024-03-abracadabra-money" target="_blank" />Report</td>
     </tr> 
   </table>
+  <br/>
+<br/>
+<h1>Contact information</h1>
+<ul>
+  <li>Discord: <a href="https://discord.com/users/461511628018548747" target="_blank" />jvorex</li>
+  <li>Twitter: <a href="https://x.com/jvorex_" target="_blank" />jvorex_</li>
+</ul>
 </body>
 <!--
 **rexjoseph/rexjoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
