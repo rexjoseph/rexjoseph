@@ -109,8 +109,8 @@ Before venturing into Blockchain security, I did Fullstack development freelance
 <br/>
 <h1>Contact information</h1>
 <ul>
-  <li>Discord: <a href="https://discord.com/users/461511628018548747" target="_blank" />jvorex</li>
-  <li>Twitter: <a href="https://x.com/jvorex_" target="_blank" />jvorex_</li>
+  <li>Discord: <a href="https://discord.com/users/461511628018548747" target="blank" />jvorex</li>
+  <li>Twitter: <a href="https://x.com/jvorex_" target="blank" />jvorex_</li>
 </ul>
 </body>
 <!--
