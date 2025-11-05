@@ -107,6 +107,11 @@ Before venturing into Blockchain security, I did Fullstack development freelance
   </table>
   <br/>
 <br/>
+<br />
+<h1>Private Engagements</h1>
+2x audits with PashovAuditGroup in the past month.
+
+<br />
 <h1>Contact information</h1>
 <ul>
   <li>Discord: <a href="https://discord.com/users/461511628018548747" target="blank" />jvorex</li>
